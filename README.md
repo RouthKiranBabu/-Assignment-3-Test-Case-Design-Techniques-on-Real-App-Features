@@ -39,7 +39,8 @@ In this method, we try to reduce human effort by taking all possible inputs sepe
 ## 💭 Decision Table
  - In this approach, Representing behaviour/response of the element with respect to one or more input triggers in the tabular form.
 
-<div>
+<div align="center">
+    
 |Test Case ID| #1(>0)| #2(>0)| #3(>0)| Continuebutton(Is Active)|
 |--:|:--:|:--:|:--:|:--|
 |TC_0015| ❌| ❌| ❌| Inactive|
